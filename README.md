@@ -1,6 +1,6 @@
 # Preview website
 
-[link](https://nextjs-pokedex-cua7.vercel.app/)
+### [Pokedex](https://nextjs-pokedex-cua7.vercel.app/)
 
 
 # Things I learned while making this project
