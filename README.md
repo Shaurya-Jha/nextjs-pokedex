@@ -1,3 +1,14 @@
+# Things I learned while making this project
+
+### Objective 
+
+Objective of this project was to learn how to use useSWR for data fetching from an API.
+
+#### Extra things learned while making this project -
+- custom hooks
+- pagination with swr
+- mutation
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
