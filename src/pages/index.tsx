@@ -37,7 +37,7 @@ export default function Home() {
         {/* <PokemonEntry name={"bulbasaur"} /> */}
 
         {data?.results?.map((response) => (
-          <div>
+          <div key={response?.name}>
             <PokemonEntry key={response?.name} name={response?.name} />
           </div>
         ))}
